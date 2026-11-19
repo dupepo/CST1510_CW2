@@ -1,0 +1,501 @@
+magnitude,location,time,type,event_type
+3.29,"122 km NNE of Punta Cana, Dominican Republic",2026-11-19 18:29:38,Feature,earthquake
+3.44,"108 km NNE of Punta Cana, Dominican Republic",2026-11-19 18:19:01,Feature,earthquake
+5.1,"99 km WSW of Illapel, Chile",2026-11-19 18:09:46,Feature,earthquake
+4.3,"170 km NW of Panguna, Papua New Guinea",2026-11-19 15:38:20,Feature,earthquake
+2.98,"19 km SW of Toms Place, CA",2026-11-19 13:58:21,Feature,earthquake
+2.6,"40 km ESE of Chiniak, Alaska",2026-11-19 13:44:34,Feature,earthquake
+3.2,"24 km SW of Ackerly, Texas",2026-11-19 13:09:23,Feature,earthquake
+3.04,"53 km ESE of Cruz Bay, U.S. Virgin Islands",2026-11-19 13:06:28,Feature,earthquake
+4.9,"65 km SSW of Atka, Alaska",2026-11-19 13:05:22,Feature,earthquake
+3.2,"26 km WSW of Cantwell, Alaska",2026-11-19 13:04:52,Feature,earthquake
+2.75,"19 km SW of Toms Place, CA",2026-11-19 12:24:26,Feature,earthquake
+5.0,"31 km WSW of Rabaul, Papua New Guinea",2026-11-19 10:53:07,Feature,earthquake
+4.3,Fiji region,2026-11-19 10:36:54,Feature,earthquake
+4.7,"92 km W of San Juan, Peru",2026-11-19 09:08:13,Feature,earthquake
+4.25,"48 km N of Charlotte Amalie, U.S. Virgin Islands",2026-11-19 09:06:34,Feature,earthquake
+2.5,"50 km SSE of Denali National Park, Alaska",2026-11-19 07:34:42,Feature,earthquake
+2.5,"70 km S of Ugashik, Alaska",2026-11-19 07:05:59,Feature,earthquake
+3.7,"67 km S of Ugashik, Alaska",2026-11-19 06:49:24,Feature,earthquake
+3.51,"42 km N of Kernville, CA",2026-11-19 06:40:11,Feature,earthquake
+2.67,"7 km SSW of Primo Tapia, B.C., MX",2026-11-19 06:02:46,Feature,earthquake
+4.8,"23 km SSE of Guayaquil, Ecuador",2026-11-19 05:49:26,Feature,earthquake
+3.0,"25 km S of Port Graham, Alaska",2026-11-19 04:22:10,Feature,earthquake
+4.9,"36 km NNE of Kilimatinde, Tanzania",2026-11-19 02:11:23,Feature,earthquake
+5.2,"130 km W of Teluk Dalam, Indonesia",2026-11-19 01:34:48,Feature,earthquake
+4.8,"40 km NNE of Kilimatinde, Tanzania",2026-11-19 01:29:33,Feature,earthquake
+2.78,"15 km NNE of Milford, Utah",2026-11-19 00:05:21,Feature,earthquake
+2.55,"31 km SE of Esperanza, Puerto Rico",2026-11-18 23:44:31,Feature,earthquake
+3.36,"18 km ENE of Borrego Springs, CA",2026-11-18 23:39:21,Feature,earthquake
+4.8,"11 km SSW of Santa Gertrudis Miramar, Mexico",2026-11-18 22:06:52,Feature,earthquake
+5.2,"169 km S of Attu Station, Alaska",2026-11-18 21:28:47,Feature,earthquake
+4.7,"134 km SW of Lorengau, Papua New Guinea",2026-11-18 20:38:39,Feature,earthquake
+4.4,"12 km SSE of Jimalalud, Philippines",2026-11-18 20:30:54,Feature,earthquake
+5.2,Pacific-Antarctic Ridge,2026-11-18 19:21:15,Feature,earthquake
+6.0,Pacific-Antarctic Ridge,2026-11-18 19:14:23,Feature,earthquake
+2.55,"14 km N of Susanville, CA",2026-11-18 18:49:26,Feature,earthquake
+4.5,"20 km SSW of Ollagüe, Chile",2026-11-18 18:46:53,Feature,earthquake
+4.8,"46 km SE of Ikungi, Tanzania",2026-11-18 18:08:01,Feature,earthquake
+4.3,"44 km NNE of Kilimatinde, Tanzania",2026-11-18 18:07:31,Feature,earthquake
+5.3,"7 km N of Tsunagi, Japan",2026-11-18 17:22:23,Feature,earthquake
+2.7,"9 km NW of Seeley Lake, Montana",2026-11-18 16:33:27,Feature,earthquake
+2.5,"83 km W of Lincoln City, Oregon",2026-11-18 16:25:02,Feature,earthquake
+4.2,off the coast of Oregon,2026-11-18 16:24:27,Feature,earthquake
+5.3,"149 km SSW of Merizo Village, Guam",2026-11-18 16:06:51,Feature,earthquake
+3.3,"91 km SW of San Clemente Is. (NW tip), CA",2026-11-18 13:58:45,Feature,earthquake
+2.85,"33 km SE of Mina, Nevada",2026-11-18 13:56:49,Feature,earthquake
+2.93,"49 km W of Petrolia, CA",2026-11-18 13:05:18,Feature,earthquake
+3.3,"2 km N of Skwentna, Alaska",2026-11-18 12:46:07,Feature,earthquake
+4.0,"136 km SW of Adak, Alaska",2026-11-18 12:27:55,Feature,earthquake
+4.9,West Chile Rise,2026-11-18 11:10:57,Feature,earthquake
+2.7,"75 km E of Chignik, Alaska",2026-11-18 11:05:58,Feature,earthquake
+5.2,"86 km NW of Ryōtsu-minato, Japan",2026-11-18 09:37:00,Feature,earthquake
+2.7,"62 km E of Port Alsworth, Alaska",2026-11-18 09:33:04,Feature,earthquake
+2.6,"58 km ENE of Nikolai, Alaska",2026-11-18 09:02:30,Feature,earthquake
+2.5,"41 km SSE of Denali National Park, Alaska",2026-11-18 06:35:06,Feature,earthquake
+5.9,"85 km WNW of San Juan, Peru",2026-11-18 06:07:42,Feature,earthquake
+3.94,"96 km SW of San Clemente Is. (NW tip), CA",2026-11-18 05:27:41,Feature,earthquake
+5.2,Galapagos Triple Junction region,2026-11-18 05:25:43,Feature,earthquake
+4.8,"67 km NNE of Ruteng, Indonesia",2026-11-18 05:24:55,Feature,earthquake
+4.4,south of the Fiji Islands,2026-11-18 04:59:00,Feature,earthquake
+4.1,"95 km SSE of Tmourghout, Morocco",2026-11-18 04:49:11,Feature,earthquake
+5.8,"40 km N of Ruteng, Indonesia",2026-11-18 04:41:32,Feature,earthquake
+5.2,"54 km NNE of Ruteng, Indonesia",2026-11-18 04:21:35,Feature,earthquake
+5.8,"99 km ESE of Madang, Papua New Guinea",2026-11-18 03:42:34,Feature,earthquake
+2.6,"8 km W of Healy, Alaska",2026-11-18 03:39:51,Feature,earthquake
+4.8,"134 km ENE of Nabire, Indonesia",2026-11-18 03:23:58,Feature,earthquake
+2.6,"11 km SW of Weston, Colorado",2026-11-18 03:01:33,Feature,earthquake
+4.06,"47 km S of Boca de Yuma, Dominican Republic",2026-11-18 02:46:16,Feature,earthquake
+5.8,"150 km SW of Merizo Village, Guam",2026-11-18 02:22:56,Feature,earthquake
+2.8,"65 km SE of Denali National Park, Alaska",2026-11-18 01:02:51,Feature,earthquake
+5.3,"16 km ESE of Comandău, Romania",2026-11-18 00:48:56,Feature,earthquake
+5.3,"7 km SE of Karakenja, Tajikistan",2026-11-18 00:46:31,Feature,earthquake
+2.8,"29 km S of Glacier View, Alaska",2026-11-18 00:26:22,Feature,earthquake
+4.5,Owen Fracture Zone region,2026-11-17 23:25:33,Feature,earthquake
+4.6,"10 km ESE of Metahāra, Ethiopia",2026-11-17 22:52:05,Feature,earthquake
+2.8,"51 km SSW of Nanwalek, Alaska",2026-11-17 22:19:27,Feature,earthquake
+3.5,"143 km SSE of False Pass, Alaska",2026-11-17 20:45:32,Feature,earthquake
+3.5,"209 km SSE of Chiniak, Alaska",2026-11-17 20:25:28,Feature,earthquake
+4.4,"35 km WSW of Palauig, Philippines",2026-11-17 20:12:28,Feature,earthquake
+4.1,"12 km SE of Pocsi, Peru",2026-11-17 18:50:40,Feature,earthquake
+4.5,"26 km NW of Port-Vila, Vanuatu",2026-11-17 18:15:19,Feature,earthquake
+4.3,"1 km NW of Macaracas, Panama",2026-11-17 18:02:32,Feature,earthquake
+2.8,"83 km ENE of Ugashik, Alaska",2026-11-17 17:12:42,Feature,earthquake
+4.3,Fiji region,2026-11-17 16:43:14,Feature,earthquake
+3.3,"192 km W of Langlois, Oregon",2026-11-17 16:42:54,Feature,earthquake
+4.8,"141 km NW of Kavieng, Papua New Guinea",2026-11-17 16:35:58,Feature,earthquake
+4.9,"135 km S of Vilyuchinsk, Russia",2026-11-17 15:49:27,Feature,earthquake
+4.9,"102 km ENE of Ozernovskiy, Russia",2026-11-17 15:48:48,Feature,earthquake
+4.4,"6 km ENE of Bachajón, Mexico",2026-11-17 15:39:08,Feature,earthquake
+4.0,"249 km WSW of Adak, Alaska",2026-11-17 15:19:39,Feature,earthquake
+4.2,"86 km SSW of Atocha, Bolivia",2026-11-17 15:00:17,Feature,earthquake
+4.4,"21 km ESE of Khorugh, Tajikistan",2026-11-17 14:59:09,Feature,earthquake
+4.4,"11 km SE of Shahrud, Iran",2026-11-17 14:54:00,Feature,earthquake
+3.0,"14 km SSW of Falls City, Texas",2026-11-17 14:25:27,Feature,earthquake
+5.2,south of the Kermadec Islands,2026-11-17 14:20:36,Feature,earthquake
+3.36,"29 km ENE of Cruz Bay, U.S. Virgin Islands",2026-11-17 13:00:04,Feature,earthquake
+2.8,"29 km E of Chenega, Alaska",2026-11-17 12:47:23,Feature,earthquake
+4.5,"95 km W of Alotau, Papua New Guinea",2026-11-17 12:26:16,Feature,earthquake
+2.5,"30 km N of Skwentna, Alaska",2026-11-17 12:06:26,Feature,earthquake
+2.6,"68 km ENE of Port Alsworth, Alaska",2026-11-17 11:36:11,Feature,earthquake
+4.2,"141 km NE of Lospalos, Timor Leste",2026-11-17 11:15:26,Feature,earthquake
+4.5,"8 km WNW of Piti Village, Guam",2026-11-17 11:12:59,Feature,earthquake
+4.9,"173 km ENE of Noda, Japan",2026-11-17 10:32:58,Feature,earthquake
+4.9,"43 km NW of Oxford, New Zealand",2026-11-17 10:30:48,Feature,earthquake
+2.9,"15 km E of Pearsall, Texas",2026-11-17 09:54:58,Feature,earthquake
+2.9,"35 km WNW of Skwentna, Alaska",2026-11-17 09:43:36,Feature,earthquake
+3.8,"35 km ENE of Miguel Ahumada, Mexico",2026-11-17 08:25:59,Feature,earthquake
+2.6,"75 km W of Akhiok, Alaska",2026-11-17 07:43:06,Feature,earthquake
+3.6,"84 km S of Unalaska, Alaska",2026-11-17 07:39:07,Feature,earthquake
+2.63,"14 km NNE of Milford, Utah",2026-11-17 07:13:34,Feature,earthquake
+2.6,"64 km S of Akutan, Alaska",2026-11-17 07:05:47,Feature,earthquake
+3.01,"11 km ESE of Silver Springs, Nevada",2026-11-17 06:32:05,Feature,earthquake
+4.2,"58 km WNW of Malfa, Italy",2026-11-17 05:51:45,Feature,earthquake
+4.4,south of the Fiji Islands,2026-11-17 05:47:56,Feature,earthquake
+3.6,"15 km WSW of Akhiok, Alaska",2026-11-17 04:56:50,Feature,earthquake
+3.3,"60 km WNW of Anchor Point, Alaska",2026-11-17 04:42:53,Feature,earthquake
+3.39,"99 km NNE of Punta Cana, Dominican Republic",2026-11-17 04:19:57,Feature,earthquake
+4.9,"26 km E of Port-Olry, Vanuatu",2026-11-17 03:52:32,Feature,earthquake
+2.7,"87 km SSE of Chenega, Alaska",2026-11-17 02:29:46,Feature,earthquake
+5.0,"137 km SSE of Kirakira, Solomon Islands",2026-11-17 02:00:17,Feature,earthquake
+3.9,"51 km S of Denali National Park, Alaska",2026-11-17 01:56:06,Feature,earthquake
+2.8,"94 km SSE of Akutan, Alaska",2026-11-17 00:31:39,Feature,earthquake
+2.5,"9 km SSW of Willow, Alaska",2026-11-16 23:05:25,Feature,earthquake
+4.6,"130 km N of Caluula, Somalia",2026-11-16 22:21:25,Feature,earthquake
+4.4,"121 km WSW of Tual, Indonesia",2026-11-16 22:17:32,Feature,earthquake
+4.7,"153 km SSE of Isangel, Vanuatu",2026-11-16 21:55:58,Feature,earthquake
+2.79,"16 km NW of Lopez Point, CA",2026-11-16 21:17:19,Feature,earthquake
+6.6,"148 km WSW of Tual, Indonesia",2026-11-16 21:11:20,Feature,earthquake
+4.6,"144 km NW of Kavieng, Papua New Guinea",2026-11-16 19:33:00,Feature,earthquake
+4.7,"77 km WSW of Changuillo, Peru",2026-11-16 19:26:34,Feature,earthquake
+3.1,"63 km NNE of Stony River, Alaska",2026-11-16 19:07:20,Feature,earthquake
+3.6,"64 km SSE of Unalaska, Alaska",2026-11-16 18:08:16,Feature,earthquake
+4.1,"43 km S of Jurm, Afghanistan",2026-11-16 18:02:25,Feature,earthquake
+3.9,"Rat Islands, Aleutian Islands, Alaska",2026-11-16 16:27:32,Feature,earthquake
+4.8,"28 km SW of Changuillo, Peru",2026-11-16 16:23:18,Feature,earthquake
+5.4,"95 km WSW of Changuillo, Peru",2026-11-16 16:16:45,Feature,earthquake
+2.8,"11 km SSE of Stonewall Gap, Colorado",2026-11-16 15:41:50,Feature,earthquake
+3.2,"164 km W of Trinidad, California",2026-11-16 14:02:30,Feature,earthquake
+4.6,"113 km ESE of Wadomari, Japan",2026-11-16 13:32:25,Feature,earthquake
+4.8,"166 km N of Caluula, Somalia",2026-11-16 13:30:33,Feature,earthquake
+4.5,"78 km S of Severo-Kuril’sk, Russia",2026-11-16 13:25:21,Feature,earthquake
+3.7,"55 km ENE of Pedro Bay, Alaska",2026-11-16 12:36:09,Feature,earthquake
+2.8,"39 km ESE of Yakutat, Alaska",2026-11-16 12:24:19,Feature,earthquake
+2.6,"15 km ESE of Ninilchik, Alaska",2026-11-16 10:21:15,Feature,earthquake
+5.0,"68 km S of Sarangani, Philippines",2026-11-16 07:14:14,Feature,earthquake
+4.3,"297 km SSE of Amahai, Indonesia",2026-11-16 07:08:09,Feature,earthquake
+4.3,"124 km NE of Quiaca, Peru",2026-11-16 06:47:34,Feature,earthquake
+2.7,"20 km NNW of Lime Village, Alaska",2026-11-16 06:32:45,Feature,earthquake
+2.5,"45 km E of Denali National Park, Alaska",2026-11-16 05:16:38,Feature,earthquake
+2.5,"11 km NNE of Susitna North, Alaska",2026-11-16 04:33:32,Feature,earthquake
+5.4,"20 km NW of Anamizu, Japan",2026-11-16 04:24:11,Feature,earthquake
+2.5,"18 km ESE of Pearsall, Texas",2026-11-16 03:08:13,Feature,earthquake
+3.6,"271 km SE of Chiniak, Alaska",2026-11-16 03:06:26,Feature,earthquake
+4.4,"2 km SW of Santa María Huazolotitlán, Mexico",2026-11-16 01:09:00,Feature,earthquake
+3.09,"66 km W of Kalaoa, Hawaii",2026-11-16 00:42:01,Feature,earthquake
+2.7,"16 km WSW of Susitna, Alaska",2026-11-16 00:06:35,Feature,earthquake
+4.4,"72 km WNW of Abra Pampa, Argentina",2026-11-15 23:04:21,Feature,earthquake
+4.8,"141 km ESE of Petropavlovsk-Kamchatsky, Russia",2026-11-15 22:38:19,Feature,earthquake
+2.7,"7 km S of Knik, Alaska",2026-11-15 21:48:48,Feature,earthquake
+4.9,"44 km S of Jurm, Afghanistan",2026-11-15 21:37:21,Feature,earthquake
+2.5,"87 km SSE of Ugashik, Alaska",2026-11-15 21:00:29,Feature,earthquake
+5.0,"256 km SSE of Ambon, Indonesia",2026-11-15 20:51:56,Feature,earthquake
+2.6,"43 km SSE of King Salmon, Alaska",2026-11-15 20:08:54,Feature,earthquake
+3.05,"18 km SE of Silver Springs, Nevada",2026-11-15 19:58:07,Feature,earthquake
+2.5,"18 km NW of Old Harbor, Alaska",2026-11-15 19:47:38,Feature,earthquake
+4.4,"102 km ESE of Sarangani, Philippines",2026-11-15 19:38:39,Feature,earthquake
+4.2,"26 km E of Estique, Peru",2026-11-15 18:52:21,Feature,earthquake
+2.6,"155 km SE of Chignik, Alaska",2026-11-15 18:25:32,Feature,earthquake
+5.0,"74 km N of Pārūn, Afghanistan",2026-11-15 17:48:36,Feature,earthquake
+3.5,"20 km ENE of Susitna North, Alaska",2026-11-15 17:13:49,Feature,earthquake
+4.2,"273 km W of Tual, Indonesia",2026-11-15 16:06:14,Feature,earthquake
+3.4,"114 km NNE of Punta Cana, Dominican Republic",2026-11-15 15:52:44,Feature,earthquake
+5.1,"169 km NW of Gorontalo, Indonesia",2026-11-15 15:41:14,Feature,earthquake
+2.5,"10 km WSW of Manley Hot Springs, Alaska",2026-11-15 15:25:49,Feature,earthquake
+4.4,"27 km SW of Minbu, Burma (Myanmar)",2026-11-15 14:32:03,Feature,earthquake
+3.0,"3 km N of Capulin, New Mexico",2026-11-15 14:29:56,Feature,earthquake
+2.6,"60 km SE of Cantwell, Alaska",2026-11-15 14:20:30,Feature,earthquake
+4.6,"27 km ESE of Union, Philippines",2026-11-15 14:17:52,Feature,earthquake
+5.5,"9 km E of Union, Philippines",2026-11-15 13:41:35,Feature,earthquake
+3.4,"69 km NNW of Chalkyitsik, Alaska",2026-11-15 13:24:36,Feature,earthquake
+2.6,"131 km E of Chignik, Alaska",2026-11-15 12:51:38,Feature,earthquake
+3.06,"6 km E of Calumet, Oklahoma",2026-11-15 11:29:08,Feature,earthquake
+4.1,"41 km SSW of La Tirana, Chile",2026-11-15 11:23:56,Feature,earthquake
+4.1,"55 km W of Valparaíso, Chile",2026-11-15 10:29:11,Feature,earthquake
+4.4,"22 km ESE of Ruteng, Indonesia",2026-11-15 09:24:50,Feature,earthquake
+2.7,"56 km E of Pedro Bay, Alaska",2026-11-15 09:18:47,Feature,earthquake
+4.4,south of the Fiji Islands,2026-11-15 08:50:06,Feature,earthquake
+2.5,"36 km NE of Mountain Home, Idaho",2026-11-15 08:49:08,Feature,earthquake
+2.5,"64 km W of Nanwalek, Alaska",2026-11-15 08:15:06,Feature,earthquake
+4.7,"92 km NW of Houma, Tonga",2026-11-15 07:36:37,Feature,earthquake
+3.65,"96 km N of Charlotte Amalie, U.S. Virgin Islands",2026-11-15 07:01:17,Feature,earthquake
+2.5,"61 km N of Petersville, Alaska",2026-11-15 05:54:13,Feature,earthquake
+3.9,"11 km E of Chenega, Alaska",2026-11-15 05:15:40,Feature,earthquake
+5.5,Fiji region,2026-11-15 05:15:02,Feature,earthquake
+4.3,"75 km SSE of San Pedro de Atacama, Chile",2026-11-15 04:38:28,Feature,earthquake
+3.44,"6 km E of Calumet, Oklahoma",2026-11-15 04:32:14,Feature,earthquake
+4.4,"115 km NW of San Antonio de los Cobres, Argentina",2026-11-15 04:23:47,Feature,earthquake
+4.8,"19 km NW of Albardón, Argentina",2026-11-15 03:59:59,Feature,earthquake
+4.3,"75 km W of Ollagüe, Chile",2026-11-15 03:53:49,Feature,earthquake
+4.2,"Rat Islands, Aleutian Islands, Alaska",2026-11-15 03:02:44,Feature,earthquake
+4.3,"8 km WSW of Corredor, Costa Rica",2026-11-15 03:01:42,Feature,earthquake
+3.0,"34 km SE of Malaga, New Mexico",2026-11-15 02:24:39,Feature,earthquake
+4.3,"Off the coast of Aisen, Chile",2026-11-15 02:17:21,Feature,earthquake
+3.41,"12 km NE of Enterprise, Utah",2026-11-15 01:40:03,Feature,earthquake
+3.09,"89 km NE of Punta Cana, Dominican Republic",2026-11-15 01:26:29,Feature,earthquake
+3.0,"30 km SW of Nikolski, Alaska",2026-11-14 23:58:16,Feature,earthquake
+3.4,"106 km WSW of Pistol River, Oregon",2026-11-14 23:22:03,Feature,earthquake
+3.3,"196 km SW of Nikolski, Alaska",2026-11-14 22:33:19,Feature,earthquake
+4.7,east central Pacific Ocean,2026-11-14 22:23:46,Feature,earthquake
+3.5,"35 km E of Chenega, Alaska",2026-11-14 22:00:18,Feature,earthquake
+4.5,"25 km N of Ruteng, Indonesia",2026-11-14 21:24:20,Feature,earthquake
+2.87,"14 km N of Quebradillas, Puerto Rico",2026-11-14 20:40:25,Feature,earthquake
+2.7,"98 km S of Sand Point, Alaska",2026-11-14 20:08:59,Feature,earthquake
+2.99,"6 km W of Burning Man Earth, Nevada",2026-11-14 19:51:16,Feature,earthquake
+2.7,"92 km S of Sand Point, Alaska",2026-11-14 18:31:51,Feature,earthquake
+4.7,"24 km S of Yacuiba, Bolivia",2026-11-14 18:04:01,Feature,earthquake
+4.3,"29 km NE of Dannevirke, New Zealand",2026-11-14 17:51:29,Feature,earthquake
+4.6,"96 km SSE of Pondaguitan, Philippines",2026-11-14 16:56:39,Feature,earthquake
+2.6,"100 km WSW of Adak, Alaska",2026-11-14 16:56:19,Feature,earthquake
+2.9,"80 km SW of Adak, Alaska",2026-11-14 16:46:30,Feature,earthquake
+4.6,"62 km WNW of San Antonio de los Cobres, Argentina",2026-11-14 16:36:19,Feature,earthquake
+2.54,"20 km W of Pole Ojea, Puerto Rico",2026-11-14 16:15:08,Feature,earthquake
+4.9,"7 km SE of Tagbina, Philippines",2026-11-14 16:04:22,Feature,earthquake
+2.74,"8 km W of Holtville, CA",2026-11-14 15:34:45,Feature,earthquake
+2.86,"8 km W of Holtville, CA",2026-11-14 15:33:34,Feature,earthquake
+2.5,"131 km SSW of Unalaska, Alaska",2026-11-14 15:24:36,Feature,earthquake
+3.1,"204 km WSW of Adak, Alaska",2026-11-14 13:53:59,Feature,earthquake
+2.5,"26 km NE of Skwentna, Alaska",2026-11-14 13:38:52,Feature,earthquake
+3.9,"103 km SSW of Nikolski, Alaska",2026-11-14 13:25:58,Feature,earthquake
+2.6,"144 km ESE of Nikolski, Alaska",2026-11-14 13:17:38,Feature,earthquake
+4.9,south of the Kermadec Islands,2026-11-14 13:17:20,Feature,earthquake
+4.5,"137 km SE of Petropavlovsk-Kamchatsky, Russia",2026-11-14 12:28:00,Feature,earthquake
+2.95,"7 km W of Holtville, CA",2026-11-14 11:13:58,Feature,earthquake
+2.55,"8 km W of Holtville, CA",2026-11-14 11:13:35,Feature,earthquake
+2.97,"7 km W of Holtville, CA",2026-11-14 11:12:55,Feature,earthquake
+3.01,"8 km W of Holtville, CA",2026-11-14 11:09:27,Feature,earthquake
+2.65,"8 km W of Holtville, CA",2026-11-14 11:05:21,Feature,earthquake
+2.7,"90 km SE of King Cove, Alaska",2026-11-14 10:37:42,Feature,earthquake
+5.5,northern Mid-Atlantic Ridge,2026-11-14 09:26:13,Feature,earthquake
+2.9,"68 km SE of Akutan, Alaska",2026-11-14 09:12:12,Feature,earthquake
+2.73,"29 km N of Hatillo, Puerto Rico",2026-11-14 09:08:16,Feature,earthquake
+2.9,"58 km NE of Nikolski, Alaska",2026-11-14 08:40:57,Feature,earthquake
+3.42,"15 km WSW of Conconully, Washington",2026-11-14 08:30:07,Feature,earthquake
+3.55,"113 km N of San Antonio, Puerto Rico",2026-11-14 07:39:11,Feature,earthquake
+2.6,"81 km SSE of Unalaska, Alaska",2026-11-14 07:36:58,Feature,earthquake
+4.1,"southeast of Shikoku, Japan",2026-11-14 07:24:59,Feature,earthquake
+2.8,"37 km SW of Chenega, Alaska",2026-11-14 07:21:20,Feature,earthquake
+2.7,"105 km N of Yakutat, Alaska",2026-11-14 07:19:06,Feature,earthquake
+4.6,"102 km NNE of Hihifo, Tonga",2026-11-14 07:02:22,Feature,earthquake
+2.8,"23 km S of Denali National Park, Alaska",2026-11-14 06:58:06,Feature,earthquake
+5.2,"State of Yap, Federated States of Micronesia",2026-11-14 06:52:26,Feature,earthquake
+4.8,West Chile Rise,2026-11-14 06:33:19,Feature,earthquake
+3.3,"197 km SSE of Akhiok, Alaska",2026-11-14 06:11:35,Feature,earthquake
+4.0,"32 km SE of Kargil, India",2026-11-14 04:59:27,Feature,earthquake
+4.5,western Indian-Antarctic Ridge,2026-11-14 04:59:00,Feature,earthquake
+2.6,"13 km SSW of Skwentna, Alaska",2026-11-14 04:02:43,Feature,earthquake
+4.2,"25 km NNW of Dhūlia, India",2026-11-14 03:45:27,Feature,earthquake
+4.7,"54 km NW of San Antonio de los Cobres, Argentina",2026-11-14 03:18:26,Feature,earthquake
+5.2,off the west coast of northern Sumatra,2026-11-14 02:59:29,Feature,earthquake
+4.5,Fiji region,2026-11-14 02:21:07,Feature,earthquake
+2.7,"17 km ENE of Tilden, Texas",2026-11-14 01:00:51,Feature,earthquake
+2.9,"58 km S of Whites City, New Mexico",2026-11-14 00:26:00,Feature,earthquake
+4.5,"22 km NE of Kinablangan, Philippines",2026-11-13 23:58:23,Feature,earthquake
+4.6,"100 km WSW of Lebu, Chile",2026-11-13 23:55:15,Feature,earthquake
+5.1,"153 km NW of Kavieng, Papua New Guinea",2026-11-13 23:30:38,Feature,earthquake
+4.1,"98 km ENE of Ouzinkie, Alaska",2026-11-13 23:26:19,Feature,earthquake
+4.6,"74 km S of Yudomari, Japan",2026-11-13 23:22:54,Feature,earthquake
+2.6,"108 km E of Chignik, Alaska",2026-11-13 23:05:57,Feature,earthquake
+4.9,south of the Kermadec Islands,2026-11-13 22:10:42,Feature,earthquake
+3.4,"56 km S of Whites City, New Mexico",2026-11-13 21:25:33,Feature,earthquake
+4.6,"33 km SSW of La Libertad, El Salvador",2026-11-13 21:19:55,Feature,earthquake
+3.0,"70 km SSW of Kaktovik, Alaska",2026-11-13 20:06:36,Feature,earthquake
+4.4,"14 km SW of Roncesvalles, Colombia",2026-11-13 20:01:41,Feature,earthquake
+4.8,"153 km NW of Kavieng, Papua New Guinea",2026-11-13 19:49:21,Feature,earthquake
+4.5,"9 km WSW of Chaparral, Colombia",2026-11-13 19:43:17,Feature,earthquake
+2.5,"64 km ENE of Susitna North, Alaska",2026-11-13 19:08:39,Feature,earthquake
+5.1,South Sandwich Islands region,2026-11-13 19:04:07,Feature,earthquake
+4.9,south of the Fiji Islands,2026-11-13 18:55:40,Feature,earthquake
+3.2,"53 km W of Nanwalek, Alaska",2026-11-13 18:36:51,Feature,earthquake
+3.4,"63 km ESE of Sand Point, Alaska",2026-11-13 16:55:30,Feature,earthquake
+5.8,"79 km WSW of Changuillo, Peru",2026-11-13 16:43:02,Feature,earthquake
+4.8,"10 km SW of Guaymate, Dominican Republic",2026-11-13 16:35:58,Feature,earthquake
+5.2,"79 km NE of Kuqa, China",2026-11-13 16:17:51,Feature,earthquake
+3.38,"22 km WNW of Preston, Nevada",2026-11-13 15:34:33,Feature,earthquake
+3.55,"16 km W of Preston, Nevada",2026-11-13 15:10:28,Feature,earthquake
+5.2,West Chile Rise,2026-11-13 14:12:47,Feature,earthquake
+4.4,"52 km NE of Santa Rosa, Peru",2026-11-13 12:37:49,Feature,earthquake
+4.4,"12 km ESE of Baculin, Philippines",2026-11-13 12:12:57,Feature,earthquake
+4.8,"59 km WSW of Houma, Tonga",2026-11-13 11:18:12,Feature,earthquake
+2.6,"131 km ESE of Chignik, Alaska",2026-11-13 11:07:18,Feature,earthquake
+4.5,"86 km NNE of Lagunas, Peru",2026-11-13 10:55:12,Feature,earthquake
+4.4,"51 km ESE of Tournavista, Peru",2026-11-13 10:32:05,Feature,earthquake
+4.4,"29 km WNW of Baghlān, Afghanistan",2026-11-13 10:17:19,Feature,earthquake
+4.1,"66 km SSE of Farkhār, Afghanistan",2026-11-13 10:07:36,Feature,earthquake
+4.9,southeast of the Loyalty Islands,2026-11-13 09:55:45,Feature,earthquake
+2.5,"58 km S of Whites City, New Mexico",2026-11-13 09:54:08,Feature,earthquake
+3.3,"10 km ESE of Nikiski, Alaska",2026-11-13 09:47:19,Feature,earthquake
+4.6,"84 km E of Barcelona, Philippines",2026-11-13 09:40:47,Feature,earthquake
+4.6,"18 km WNW of Río Grande, Panama",2026-11-13 08:01:57,Feature,earthquake
+4.4,"152 km WSW of Fakfak, Indonesia",2026-11-13 07:55:35,Feature,earthquake
+4.7,"27 km NNE of Labuan Lombok, Indonesia",2026-11-13 04:49:33,Feature,earthquake
+3.5,"88 km SSE of King Cove, Alaska",2026-11-13 03:27:57,Feature,earthquake
+4.2,"95 km W of San Antonio de los Cobres, Argentina",2026-11-13 03:11:15,Feature,earthquake
+4.9,"Pagan region, Northern Mariana Islands",2026-11-13 02:55:03,Feature,earthquake
+4.5,"278 km E of Levuka, Fiji",2026-11-13 02:26:23,Feature,earthquake
+2.53,"8 km SE of San Pedro, CA",2026-11-13 02:11:54,Feature,earthquake
+4.3,"91 km W of San Antonio de los Cobres, Argentina",2026-11-13 01:44:32,Feature,earthquake
+3.36,"98 km N of San Juan, Puerto Rico",2026-11-13 01:37:07,Feature,earthquake
+5.0,"85 km W of Mwene-Ditu, Democratic Republic of the Congo",2026-11-13 01:12:46,Feature,earthquake
+5.1,"39 km S of Moíres, Greece",2026-11-13 00:05:04,Feature,earthquake
+3.5,off the coast of Oregon,2026-11-12 23:46:47,Feature,earthquake
+5.8,"148 km NW of Kavieng, Papua New Guinea",2026-11-12 22:04:06,Feature,earthquake
+4.6,"117 km S of Akureyri, Iceland",2026-11-12 21:53:42,Feature,earthquake
+4.9,western Indian-Antarctic Ridge,2026-11-12 21:15:56,Feature,earthquake
+5.1,western Indian-Antarctic Ridge,2026-11-12 21:09:14,Feature,earthquake
+4.9,"41 km N of Weining, China",2026-11-12 20:03:14,Feature,earthquake
+2.58,"1 km ENE of Aromas, CA",2026-11-12 19:40:57,Feature,earthquake
+3.4,"54 km N of Kobuk, Alaska",2026-11-12 19:18:38,Feature,earthquake
+2.95,"3 km NNW of Little America, Wyoming",2026-11-12 17:18:59,Feature,earthquake
+2.5,"67 km E of Port Alsworth, Alaska",2026-11-12 16:19:07,Feature,earthquake
+3.2,"36 km SSW of Nanwalek, Alaska",2026-11-12 15:43:54,Feature,earthquake
+4.5,"115 km ESE of Bitung, Indonesia",2026-11-12 14:58:32,Feature,earthquake
+4.4,"Rat Islands, Aleutian Islands, Alaska",2026-11-12 13:39:57,Feature,earthquake
+4.3,"Bonin Islands, Japan region",2026-11-12 13:37:55,Feature,earthquake
+4.5,"3 km E of Tako, Japan",2026-11-12 13:27:22,Feature,earthquake
+2.5,"24 km ESE of Kasilof, Alaska",2026-11-12 13:10:38,Feature,earthquake
+2.63,"37 km SE of Naalehu, Hawaii",2026-11-12 12:50:07,Feature,earthquake
+4.7,"83 km NE of Ruteng, Indonesia",2026-11-12 11:16:29,Feature,earthquake
+2.7,"119 km ESE of Cordova, Alaska",2026-11-12 10:17:31,Feature,earthquake
+3.1,"15 km E of Pearsall, Texas",2026-11-12 09:20:18,Feature,earthquake
+4.1,"215 km WSW of Port McNeill, Canada",2026-11-12 08:26:40,Feature,earthquake
+4.5,off the coast of Oregon,2026-11-12 08:17:28,Feature,earthquake
+2.5,"60 km NW of Ninilchik, Alaska",2026-11-12 06:14:36,Feature,earthquake
+2.5,"21 km NNE of Sterling, Alaska",2026-11-12 06:11:35,Feature,earthquake
+2.8,"95 km SSW of Kaktovik, Alaska",2026-11-12 06:04:56,Feature,earthquake
+3.7,"104 km SSW of Kaktovik, Alaska",2026-11-12 05:48:28,Feature,earthquake
+4.1,"123 km SE of Adak, Alaska",2026-11-12 05:38:46,Feature,earthquake
+2.5,"51 km W of Akhiok, Alaska",2026-11-12 04:08:47,Feature,earthquake
+4.8,"155 km E of Noda, Japan",2026-11-12 04:07:32,Feature,earthquake
+5.4,South Sandwich Islands region,2026-11-12 03:45:56,Feature,earthquake
+3.1,"11 km SSE of Kasilof, Alaska",2026-11-12 03:43:51,Feature,earthquake
+4.8,"43 km SE of Severo-Kuril’sk, Russia",2026-11-12 01:18:44,Feature,earthquake
+4.4,"84 km SE of Akutan, Alaska",2026-11-12 00:00:46,Feature,earthquake
+3.9,"95 km SE of Akutan, Alaska",2026-11-11 23:59:40,Feature,earthquake
+2.5,"23 km S of Westbrook, Texas",2026-11-11 23:05:49,Feature,earthquake
+4.6,"73 km NNW of Gyalshing, India",2026-11-11 23:00:22,Feature,earthquake
+2.6,"112 km N of Yakutat, Alaska",2026-11-11 22:44:18,Feature,earthquake
+4.9,"116 km E of Georgetown, Saint Helena",2026-11-11 22:03:42,Feature,earthquake
+2.93,"22 km SE of Emajagua, Puerto Rico",2026-11-11 21:20:18,Feature,earthquake
+4.4,"112 km SW of Brisas Barra de Suchiate, Mexico",2026-11-11 21:15:21,Feature,earthquake
+4.5,"41 km SSE of Camiña, Chile",2026-11-11 20:45:04,Feature,earthquake
+4.4,"274 km W of Houma, Tonga",2026-11-11 20:38:22,Feature,earthquake
+3.3,"131 km SSE of Old Harbor, Alaska",2026-11-11 20:24:46,Feature,earthquake
+4.5,south of the Fiji Islands,2026-11-11 19:50:21,Feature,earthquake
+4.9,"48 km NW of Ancud, Chile",2026-11-11 19:21:15,Feature,earthquake
+3.1,"128 km SSE of Old Harbor, Alaska",2026-11-11 19:08:19,Feature,earthquake
+3.9,"34 km ESE of Vallenar, Chile",2026-11-11 18:41:56,Feature,earthquake
+5.1,"81 km W of Panguna, Papua New Guinea",2026-11-11 17:38:24,Feature,earthquake
+4.4,"27 km S of Pedasí, Panama",2026-11-11 17:36:39,Feature,earthquake
+2.6,"15 km E of Pearsall, Texas",2026-11-11 16:44:33,Feature,earthquake
+2.5,"28 km SSE of Denali National Park, Alaska",2026-11-11 16:27:06,Feature,earthquake
+5.1,South Sandwich Islands region,2026-11-11 15:39:25,Feature,earthquake
+2.5,"56 km S of Whites City, New Mexico",2026-11-11 14:53:45,Feature,earthquake
+2.8,"77 km W of Arctic Village, Alaska",2026-11-11 13:48:08,Feature,earthquake
+4.5,"62 km NNE of Port-Olry, Vanuatu",2026-11-11 12:45:06,Feature,earthquake
+4.7,"168 km W of Fakfak, Indonesia",2026-11-11 12:17:23,Feature,earthquake
+4.6,"130 km E of Masohi, Indonesia",2026-11-11 12:10:12,Feature,earthquake
+5.1,"27 km WSW of Calama, Chile",2026-11-11 11:36:51,Feature,earthquake
+3.04,"43 km N of Charlotte Amalie, U.S. Virgin Islands",2026-11-11 11:35:10,Feature,earthquake
+5.1,"Pulau Pulau Tanimbar, Indonesia",2026-11-11 11:32:24,Feature,earthquake
+4.0,"10 km NE of San Agustín Chayuco, Mexico",2026-11-11 11:01:39,Feature,earthquake
+4.6,"64 km NW of Port-Vila, Vanuatu",2026-11-11 10:57:37,Feature,earthquake
+2.92,"20 km WNW of Charlotte Amalie, U.S. Virgin Islands",2026-11-11 10:51:06,Feature,earthquake
+2.76,"9 km NNW of Garrochales, Puerto Rico",2026-11-11 10:12:48,Feature,earthquake
+4.1,"23 km WSW of Eilat, Israel",2026-11-11 09:24:52,Feature,earthquake
+3.7,"53 km SW of Port Alexander, Alaska",2026-11-11 08:48:43,Feature,earthquake
+4.4,western Xizang,2026-11-11 08:47:52,Feature,earthquake
+4.7,"152 km WSW of Merizo Village, Guam",2026-11-11 08:37:15,Feature,earthquake
+4.3,"9 km W of La Humedad, Mexico",2026-11-11 08:05:37,Feature,earthquake
+3.7,"116 km SE of Port Graham, Alaska",2026-11-11 07:38:45,Feature,earthquake
+4.2,"64 km WSW of Valparaíso, Chile",2026-11-11 06:57:29,Feature,earthquake
+5.1,Balleny Islands region,2026-11-11 06:21:45,Feature,earthquake
+5.0,"152 km SE of Kuril’sk, Russia",2026-11-11 05:26:28,Feature,earthquake
+4.6,"54 km WNW of Malfa, Italy",2026-11-11 05:12:08,Feature,earthquake
+4.3,"70 km SW of Nikolski, Alaska",2026-11-11 04:20:59,Feature,earthquake
+4.6,"130 km ENE of Hasaki, Japan",2026-11-11 03:56:52,Feature,earthquake
+2.87,"47 km NNW of San Antonio, Puerto Rico",2026-11-11 02:40:23,Feature,earthquake
+4.7,"130 km W of Tofino, Canada",2026-11-11 01:45:27,Feature,earthquake
+3.09,"53 km NNW of Culebra, Puerto Rico",2026-11-11 01:41:40,Feature,earthquake
+2.74,"52 km W of Neah Bay, Washington",2026-11-11 01:38:21,Feature,earthquake
+4.2,"51 km ENE of Petropavlovsk-Kamchatsky, Russia",2026-11-11 01:01:21,Feature,earthquake
+4.5,"16 km SSE of Gaoyou, China",2026-11-10 22:15:10,Feature,earthquake
+4.5,"61 km ENE of Blangpidie, Indonesia",2026-11-10 22:09:07,Feature,earthquake
+4.9,"207 km NW of Port-Olry, Vanuatu",2026-11-10 19:54:18,Feature,earthquake
+2.9,"74 km WNW of Petersville, Alaska",2026-11-10 17:42:27,Feature,earthquake
+5.2,"21 km WNW of Popondetta, Papua New Guinea",2026-11-10 17:36:49,Feature,earthquake
+5.2,Mid-Indian Ridge,2026-11-10 17:36:28,Feature,earthquake
+2.7,"9 km WNW of Kalifornsky, Alaska",2026-11-10 16:31:04,Feature,earthquake
+2.74,"1 km N of Lake Davis, CA",2026-11-10 16:16:20,Feature,earthquake
+4.8,"20 km SSW of Lata, Solomon Islands",2026-11-10 15:52:55,Feature,earthquake
+5.1,"139 km ESE of Labuha, Indonesia",2026-11-10 15:51:35,Feature,earthquake
+4.8,"33 km S of Puerto San José, Guatemala",2026-11-10 15:23:58,Feature,earthquake
+5.5,"40 km S of Puerto San José, Guatemala",2026-11-10 14:54:19,Feature,earthquake
+4.7,"3 km SSE of Sukabumi, Indonesia",2026-11-10 14:31:36,Feature,earthquake
+2.5,"49 km E of Pedro Bay, Alaska",2026-11-10 14:20:06,Feature,earthquake
+2.6,"48 km SSE of Denali National Park, Alaska",2026-11-10 14:03:11,Feature,earthquake
+4.7,"111 km WNW of Höfn, Iceland",2026-11-10 13:37:53,Feature,earthquake
+2.65,"7 km NNE of Puako, Hawaii",2026-11-10 12:41:01,Feature,earthquake
+2.6,"51 km N of Aleneva, Alaska",2026-11-10 12:30:36,Feature,earthquake
+3.4,"130 km WSW of Nikolski, Alaska",2026-11-10 11:04:38,Feature,earthquake
+3.4,"127 km SW of Nikolski, Alaska",2026-11-10 10:05:27,Feature,earthquake
+2.5,"59 km E of Pedro Bay, Alaska",2026-11-10 10:02:02,Feature,earthquake
+2.91,"57 km SSW of Mākena, Hawaii",2026-11-10 09:39:18,Feature,earthquake
+2.63,"56 km S of Mākena, Hawaii",2026-11-10 09:37:02,Feature,earthquake
+3.68,"69 km N of Culebra, Puerto Rico",2026-11-10 08:48:04,Feature,earthquake
+5.0,"58 km NE of Fef, Indonesia",2026-11-10 08:34:07,Feature,earthquake
+4.3,"18 km SE of Joseph, Oregon",2026-11-10 07:42:52,Feature,earthquake
+4.8,northern Mid-Atlantic Ridge,2026-11-10 06:43:11,Feature,earthquake
+2.89,"75 km NNE of Vieques, Puerto Rico",2026-11-10 06:37:42,Feature,earthquake
+4.7,"90 km SSE of Tateyama, Japan",2026-11-10 06:36:48,Feature,earthquake
+3.41,"11 km NE of Boca de Yuma, Dominican Republic",2026-11-10 05:56:53,Feature,earthquake
+4.9,"78 km ESE of Hitachi, Japan",2026-11-10 05:20:08,Feature,earthquake
+3.01,"52 km N of San Juan, Puerto Rico",2026-11-10 04:33:04,Feature,earthquake
+4.6,"65 km SW of Lata, Solomon Islands",2026-11-10 04:30:17,Feature,earthquake
+4.4,southeast Indian Ridge,2026-11-10 04:13:58,Feature,earthquake
+5.2,"19 km WSW of Lata, Solomon Islands",2026-11-10 03:37:46,Feature,earthquake
+3.1,"265 km SSW of Inuvik, Canada",2026-11-10 03:10:13,Feature,earthquake
+3.07,"61 km N of Charlotte Amalie, U.S. Virgin Islands",2026-11-10 02:15:33,Feature,earthquake
+4.9,north of Franz Josef Land,2026-11-10 02:00:03,Feature,earthquake
+5.4,"Pulau Pulau Tanimbar, Indonesia",2026-11-10 01:53:24,Feature,earthquake
+3.0,"56 km NNE of Miches, Dominican Republic",2026-11-10 01:52:10,Feature,earthquake
+2.58,"11 km E of Pāhala, Hawaii",2026-11-10 01:49:48,Feature,earthquake
+2.9,"8 km W of Takotna, Alaska",2026-11-10 01:42:25,Feature,earthquake
+4.5,"203 km W of Abepura, Indonesia",2026-11-10 00:11:22,Feature,earthquake
+5.0,south of the Fiji Islands,2026-11-09 23:45:26,Feature,earthquake
+4.9,South Sandwich Islands region,2026-11-09 23:40:12,Feature,earthquake
+4.0,"14 km E of Khorugh, Tajikistan",2026-11-09 23:15:04,Feature,earthquake
+2.76,"21 km W of Preston, Nevada",2026-11-09 22:56:58,Feature,earthquake
+4.8,"98 km W of Attu Station, Alaska",2026-11-09 22:03:08,Feature,earthquake
+4.3,"92 km NW of Pante Makasar, Timor Leste",2026-11-09 21:06:34,Feature,earthquake
+3.3,"76 km WNW of Petersville, Alaska",2026-11-09 20:36:18,Feature,earthquake
+2.6,"11 km WNW of Hilltop, Texas",2026-11-09 20:26:36,Feature,earthquake
+4.8,"149 km NW of Port-Olry, Vanuatu",2026-11-09 19:27:54,Feature,earthquake
+4.6,south of the Fiji Islands,2026-11-09 19:09:47,Feature,earthquake
+2.6,"15 km E of Pearsall, Texas",2026-11-09 18:57:16,Feature,earthquake
+4.6,"206 km E of Kirakira, Solomon Islands",2026-11-09 18:51:45,Feature,earthquake
+3.2,"57 km NNW of Yakutat, Alaska",2026-11-09 18:48:08,Feature,earthquake
+3.4,"15 km SSE of Larsen Bay, Alaska",2026-11-09 17:50:55,Feature,earthquake
+3.63,"48 km SSW of Boca de Yuma, Dominican Republic",2026-11-09 17:32:48,Feature,earthquake
+2.6,"3 km NNE of Salamatof, Alaska",2026-11-09 17:29:42,Feature,earthquake
+4.5,"152 km E of Masohi, Indonesia",2026-11-09 16:52:42,Feature,earthquake
+4.1,"64 km NNW of Furubira, Japan",2026-11-09 16:06:13,Feature,earthquake
+2.7,"265 km SSW of Nikolski, Alaska",2026-11-09 15:28:27,Feature,earthquake
+3.0,"57 km S of Whites City, New Mexico",2026-11-09 15:27:46,Feature,earthquake
+2.78,"75 km N of Charlotte Amalie, U.S. Virgin Islands",2026-11-09 15:11:32,Feature,earthquake
+4.9,Mid-Indian Ridge,2026-11-09 15:04:33,Feature,earthquake
+4.3,"164 km E of Masohi, Indonesia",2026-11-09 14:55:47,Feature,earthquake
+2.6,"38 km WSW of Tyonek, Alaska",2026-11-09 14:02:50,Feature,earthquake
+2.7,"45 km E of Denali National Park, Alaska",2026-11-09 13:23:51,Feature,earthquake
+2.95,"Rat Islands, Aleutian Islands, Alaska",2026-11-09 13:12:05,Feature,earthquake
+2.5,"16 km ESE of Pearsall, Texas",2026-11-09 12:44:52,Feature,earthquake
+4.7,"17 km NW of İmamoğlu, Turkey",2026-11-09 12:28:18,Feature,earthquake
+2.8,"Rat Islands, Aleutian Islands, Alaska",2026-11-09 12:14:44,Feature,earthquake
+2.51,"2 km SW of Pāhala, Hawaii",2026-11-09 11:39:10,Feature,earthquake
+4.7,"271 km N of Tobelo, Indonesia",2026-11-09 11:25:07,Feature,earthquake
+4.4,"76 km W of Murghob, Tajikistan",2026-11-09 10:33:16,Feature,earthquake
+5.3,"80 km ENE of Lagunas, Peru",2026-11-09 10:23:53,Feature,earthquake
+4.3,"226 km E of Levuka, Fiji",2026-11-09 10:21:14,Feature,earthquake
+4.3,south of the Fiji Islands,2026-11-09 10:08:45,Feature,earthquake
+4.8,"183 km E of Masohi, Indonesia",2026-11-09 09:53:38,Feature,earthquake
+5.4,"160 km E of Masohi, Indonesia",2026-11-09 09:48:27,Feature,earthquake
+4.1,western Xizang,2026-11-09 09:11:17,Feature,earthquake
+3.5,"48 km N of Petersville, Alaska",2026-11-09 08:28:35,Feature,earthquake
+4.2,"23 km SSW of Fiambalá, Argentina",2026-11-09 08:22:13,Feature,earthquake
+2.8,"32 km SE of Adak, Alaska",2026-11-09 07:31:00,Feature,earthquake
+3.51,"59 km NW of San Antonio, Puerto Rico",2026-11-09 07:19:15,Feature,earthquake
+4.6,"54 km S of Klyuchi, Russia",2026-11-09 07:04:13,Feature,earthquake
+2.5,"154 km SSE of False Pass, Alaska",2026-11-09 06:58:35,Feature,earthquake
+4.1,"121 km NNW of Hicks Bay, New Zealand",2026-11-09 05:50:17,Feature,earthquake
+2.62,"5 km S of Pāhala, Hawaii",2026-11-09 05:36:21,Feature,earthquake
+4.8,"26 km SW of Lata, Solomon Islands",2026-11-09 05:16:56,Feature,earthquake
+4.6,"69 km ESE of Takahagi, Japan",2026-11-09 05:01:53,Feature,earthquake
+3.3,"88 km S of Unalaska, Alaska",2026-11-09 04:58:32,Feature,earthquake
+5.7,"106 km ENE of Hasaki, Japan",2026-11-09 04:52:51,Feature,earthquake
+3.8,"246 km W of Ferndale, California",2026-11-09 04:49:24,Feature,earthquake
+6.4,"30 km WSW of Lata, Solomon Islands",2026-11-09 03:34:59,Feature,earthquake
+2.7,"79 km SSW of Unalaska, Alaska",2026-11-09 03:03:47,Feature,earthquake
+2.5,"28 km SW of Susitna, Alaska",2026-11-09 02:55:51,Feature,earthquake
+4.4,"93 km ESE of Kyzyl-Eshme, Kyrgyzstan",2026-11-09 02:40:30,Feature,earthquake
+2.7,"164 km N of Adak, Alaska",2026-11-09 02:35:07,Feature,earthquake
+2.8,"15 km E of Pearsall, Texas",2026-11-09 02:28:10,Feature,earthquake
+3.0,"73 km S of Adak, Alaska",2026-11-09 02:22:05,Feature,earthquake
+4.9,south of the Fiji Islands,2026-11-09 02:21:57,Feature,earthquake
+4.4,"70 km S of Yudomari, Japan",2026-11-09 02:12:18,Feature,earthquake
+4.3,"63 km NE of Keren, Eritrea",2026-11-09 01:11:31,Feature,earthquake
+4.1,"280 km WNW of Houma, Tonga",2026-11-09 00:59:17,Feature,earthquake
+5.2,south of the Fiji Islands,2026-11-09 00:47:00,Feature,earthquake
+5.6,"Kermadec Islands, New Zealand",2026-11-09 00:45:37,Feature,earthquake
+2.59,"1 km NNW of The Geysers, CA",2026-11-09 00:44:35,Feature,earthquake
+2.5,"78 km SW of Adak, Alaska",2026-11-09 00:31:08,Feature,earthquake
+2.9,"5 km WSW of Westbrook, Texas",2026-11-09 00:28:15,Feature,earthquake
